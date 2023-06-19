@@ -52,6 +52,7 @@ _What are the top news stories yesterday?_
 
 **回答：**  
 Searching:    yesterday
+
 It appears that the topics of interest for yesterday include:
 
 1. Microsoft outages and cyberattack
@@ -67,6 +68,7 @@ _What business news has there been in the past 7 days?_
 
 **回答：**  
 Searching:   business the past 7 days
+
 There have been several business news articles in the past 7 days related to:
 
 * The SEC launching two lawsuits over retail crypto trading
@@ -85,6 +87,7 @@ _Is it true that Donald Trump has recently been accused of a crime after June 5t
 
 **回答：**  
 Searching:  Trump   June 5th
+
 Yes, it is true that Donald Trump has been indicted on seven counts in a special counsel probe into his handling of a cache of classified documents. The indictment was announced on June 10, 2021. However, it is important to note that this is a separate case from the ongoing investigations into Russian interference in the 2016 election, and whether Trump's campaign collaborated with the Russian government. It is also possible that the charges in this case are related to other matters that have not been publicly disclosed.
 
 新闻查询
@@ -95,6 +98,7 @@ _What recent news is there about Elon Musk?_
 
 **回答：**  
 Searching:  Musk   
+
 There are several recent news articles about Elon Musk. Here are some of the main events:
 
 * A shareholder lawsuit against Elon Musk has been thrown out by a judge.
@@ -112,6 +116,7 @@ _Which company recently released the Vision Pro product?_
 
 **回答：**  
 Searching:  Vision Pro   
+
 Apple released the Vision Pro product.
 
 # 常见问题
